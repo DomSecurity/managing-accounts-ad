@@ -8,7 +8,7 @@
 <p>
 </p>
 <p>
-In this lab we'll be dealing with account lockouts and password resets. As well as Enabling and Disabling Accounts. Then finally, we'll be Observing some Authencation and Security Logs.
+In this lab we'll be dealing with account lockouts and password resets. As well as Enabling and Disabling Accounts. Then finally, we'll be Observing some Authentication and Security Logs.
 </p>
 <br />
 
